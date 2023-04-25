@@ -77,7 +77,7 @@ $table_prefix = 'wp_';
  * 
  * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */ 
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 /* Lägg in eventuella anpassade värden mellan denna rad och raden med "sluta redigera här". */
 
 

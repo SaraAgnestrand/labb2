@@ -1,0 +1,174 @@
+2023-04-24T10:33:43+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:33:45+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:33:49+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:33:50+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:34:06+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:34:09+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:34:10+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:34:16+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 5
+
+2023-04-24T10:38:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:38:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:38:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:38:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:38:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:38:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:39:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:39:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:42:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:42:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:43:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:43:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:46:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:46:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php(10): add_action()
+#1 C:\MAMP\htdocs\labb2\wordpress\wp-settings.php(591): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\labb2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown i C:\MAMP\htdocs\labb2\wordpress\wp-includes\plugin.php på rad 441
+
+2023-04-24T10:48:34+00:00 CRITICAL syntax error, unexpected identifier "add_action" i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 8
+
+2023-04-24T10:50:51+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file i C:\MAMP\htdocs\labb2\wordpress\wp-content\themes\storefront-child\functions.php på rad 3
+
